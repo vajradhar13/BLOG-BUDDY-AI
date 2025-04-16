@@ -235,13 +235,13 @@ To run this project locally, follow these steps:
 ## Author
 
 This Blog Buddy AI application was developed by :
--	[@katakampranav](https://github.com/katakampranav)
--	Repository : https://github.com/katakampranav/BLOG-BUDDY-AI
+-	[@vajradhar13](https://github.com/vajradhar13)
+-	Repository : https://github.com/vajradhar13/BLOG-BUDDY-AI
 
 ---
 
 ## Feedback
 
-For any feedback or queries, please reach out to me at katakampranavshankar@gmail.com.
+For any feedback or queries, please reach out to me at dvajradhar@gmail.com.
 
 --- 
